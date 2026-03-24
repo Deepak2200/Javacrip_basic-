@@ -1,0 +1,7 @@
+console.log(null>0);
+console.log(null==0);
+console.log(null>=0);
+
+// == vs ===  triple equal to check value and type both
+console.log(1=="1");
+console.log(1==="1");
